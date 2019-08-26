@@ -16,5 +16,5 @@ export PATH
 # Set key logging
 
 # DATE=`date +'%d%b%y%H%M'`
-exec script -q -f -t 2>/data02/wss_alert/keylog/script_time/"$LOGNAME"_"$DATE"_$$.time /data02/wss_alert/keylog/script_log/"$LOGNAME"_"$DATE"_$$.log
+# exec script -q -f -t 2>/data02/wss_alert/keylog/script_time/"$LOGNAME"_"$DATE"_$$.time /data02/wss_alert/keylog/script_log/"$LOGNAME"_"$DATE"_$$.log
 
